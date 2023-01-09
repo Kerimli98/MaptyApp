@@ -4,7 +4,7 @@ Workout tracker application
 
 ### Usage
 
-You have a small sidebar here on the left side. And then the main part of the application is the huge map. And so this map is actually loaded, from a third party service called Leaflet.
+You have a small sidebar here on the left side. And then the main part of the application is the huge map. This map is actually loaded, from a third party service called Leaflet.
 
 ![main](main.png)
 
